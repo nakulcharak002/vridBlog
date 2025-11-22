@@ -56,7 +56,7 @@ Here are some screenshots of the app in action:
 
 | Blog List | Blog Detail |
 | :---: | :---: |
-| ![Blog List Screen](./screenshots/blog_list_screen.png) | ![Blog Detail Screen](./screenshots/blog_detail_screen.png) |
+| ![Blog List Screen](screenshots/blog_detail_screen.png) | ![Blog Detail Screen](./screenshots/blog_detail_screen.png) |
 
 ## 🛠️ How to Build
 
